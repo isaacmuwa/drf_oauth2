@@ -1,8 +1,10 @@
+/.venv
 *.swp
 *.sh
 *.db
 *.DS_Store
 *.py[cod]
+db.sqlite3
 wsgi.py
 local_settings.py
 celerybeat-schedule
