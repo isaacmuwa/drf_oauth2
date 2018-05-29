@@ -1,0 +1,13 @@
+*.swp
+*.sh
+*.db
+*.DS_Store
+*.py[cod]
+wsgi.py
+local_settings.py
+celerybeat-schedule
+celerybeat.pid
+run/
+static/media/uploads/*
+logs/*
+
